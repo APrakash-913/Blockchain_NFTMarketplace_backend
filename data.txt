@@ -1,0 +1,24 @@
+Nothing to compile
+reusing "NftMarketplace" at 0x4760E2272b7e4301Afb8ead771aCD39b99A3d6e0
+Verifying......
+Verifying contract...
+Nothing to compile
+Already verified!
+------------------------------------------------------------------------------
+reusing "BasicNft" at 0x1d0ed89ccc380eDA0D0F0160C00895392cB442b9
+Verifying......
+Verifying contract...
+Compiled 13 Solidity files successfully
+Successfully submitted source code for contract
+contracts/test/BasicNft.sol:BasicNft at 0x1d0ed89ccc380eDA0D0F0160C00895392cB442b9
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract BasicNft on Etherscan.
+https://goerli.etherscan.io/address/0x1d0ed89ccc380eDA0D0F0160C00895392cB442b9#code
+
+
+====================================================================================================
+LocalHost
+deploying "NftMarketplace" (tx: 0x69654fd4b57480c05764b1acee4915a851eec1da9cc472339fc44ffb6b7620d2)...: deployed at 0x5FbDB2315678afecb367f032d93F642f64180aa3 with 1360311 gas
+------------------------------------------------------------------------------
+deploying "BasicNft" (tx: 0xdd5b212933fb1273c43553212eef551a007e5a539a9d1ed07e433b23f120b55c)...: deployed at 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 with 2174497 gas

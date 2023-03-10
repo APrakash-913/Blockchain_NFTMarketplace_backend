@@ -4,7 +4,7 @@ pragma solidity ^0.8.7;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
 /*
-Since My Main Project if making NFTMarketplace
+Since My Main Project is making NFTMarketplace
 so, i need NFTs to work with.
 */
 
