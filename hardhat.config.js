@@ -16,7 +16,7 @@ require("dotenv").config()
 //     "https://eth-mainnet.alchemyapi.io/v2/e8WwSmwPIRV9GM2q1Xg8-4DdE_hhWhWe"
 const GOERLI_RPC_URL =
     process.env.GOERLI_RPC_URL ||
-    "https://eth-goerli.alchemyapi.io/v2/e8WwSmwPIRV9GM2q1Xg8-4DdE_hhWhWe"
+    "https://eth-goerli.alchemyapi.io/v2/your goerli RPC URL"
 // const POLYGON_MAINNET_RPC_URL =
 //     process.env.POLYGON_MAINNET_RPC_URL || "https://polygon-mainnet.alchemyapi.io/v2/your-api-key"
 const PRIVATE_KEY = process.env.PRIVATE_KEY || "0x"
